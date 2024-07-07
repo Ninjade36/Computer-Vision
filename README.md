@@ -1,9 +1,5 @@
 # Computer-Vision
 
-Sure! Here's the description translated into English:
-
----
-
 ## Applied Learning Project - Object Detection and Removal
 
 ### Project Background
