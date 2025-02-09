@@ -76,3 +76,12 @@ After obtaining accurate segmentation masks, the process continued with the use 
 
 ### Conclusion and Future Directions
 My project demonstrates the potential of using advanced deep learning techniques for automating complex image editing tasks. In the future, My aim is to expand our research to include other object types and improve the efficiency and accuracy of our models. Additionally, I plan to explore real-time applications of our technology in various fields such as security, automotive, and healthcare.
+
+
+
+
+
+
+![output_figure](https://github.com/user-attachments/assets/d8ba201b-4203-4051-9a82-48f30db172ca)
+
+
