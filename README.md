@@ -79,9 +79,15 @@ My project demonstrates the potential of using advanced deep learning techniques
 
 
 
-
-
-
 ![output_figure](https://github.com/user-attachments/assets/d8ba201b-4203-4051-9a82-48f30db172ca)
+
+### Comparision between our custom-trained yolo model versus yolov5XL at cars-object detection
+![image](https://github.com/user-attachments/assets/9041677b-bbb2-4b38-b139-bd80f2c2efa4)
+
+We can clearly see how our model scores higher for all the cars types than the largest yolov5 model
+
+### Comparision between our platform and the best online platforms
+![image](https://github.com/user-attachments/assets/2853ea95-facb-4779-903b-9d5ec043cbb1)
+![image](https://github.com/user-attachments/assets/5768ebc5-dc8a-4b5f-99ff-9b3d30865de4)
 
 
